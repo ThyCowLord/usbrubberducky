@@ -1,3 +1,3 @@
 # usbrubberducky
-Some ducky payloads
+Some ducky payloads.
 Yup. That's it. 
