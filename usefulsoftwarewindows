@@ -14,5 +14,6 @@ iexplore https://github.com/atom/atom/releases/download/v1.23.1/AtomSetup-x64.ex
 ENTER
 GUI r
 notepad
+ENTER
 DELAY 500
 STRING I downloaded Firefox, Etcher, and Atom!
