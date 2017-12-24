@@ -1,0 +1,11 @@
+REM Downloads my puzzle.
+GUI space
+DELAY 500
+terminal
+ENTER
+DELAY 500
+open https://github.com/ThyCowLord/puzzle/archive/master.zip
+ENTER
+DELAY 500
+ENTER
+REM Last enter just in case of an interfering program
