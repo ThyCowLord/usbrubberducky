@@ -1,0 +1,9 @@
+REM Shutdown a mac
+GUI space
+terminal
+DELAY 500
+ENTER
+DELAY 500
+sudo shutdown -h now
+DELAY 500
+ENTER
