@@ -1,0 +1,23 @@
+REM Downloads some useful software. The software is Etcher, Atom, and Firefox
+GUI r 
+DELAY 500
+open https://github.com/resin-io/etcher/releases/download/v1.2.1/Etcher-1.2.1.dmg
+ENTER
+DELAY 500
+GUI space
+DELAY 500
+terminal
+ENTER
+open https://www.mozilla.org/en-US/firefox/new/?scene=2
+ENTER
+DELAY 500
+GUI space
+terminal
+ENTER
+open https://atom.io/download/mac
+ENTER
+GUI space
+textedit
+ENTER
+DELAY 500
+STRING I downloaded Firefox, Etcher, and Atom!
