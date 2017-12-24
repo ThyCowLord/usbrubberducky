@@ -1,0 +1,19 @@
+REM Plays the Soviet Union anthem and goes to r/communism and opens notepad
+GUI r
+DELAY 500
+terminal
+DELAY 500
+ENTER
+open https://www.youtube.com/watch?v=x72w_69yS1A
+GUI space
+DELAY 500
+terminal
+open https://reddit.com/r/communism
+ENTER
+DELAY 500
+GUI space 
+DELAY 500
+textedit
+DELAY 500
+All hail the Soviet Union!
+REM I do not like or dislike communism. 
