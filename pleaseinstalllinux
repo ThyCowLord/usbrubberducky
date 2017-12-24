@@ -1,0 +1,14 @@
+GUI r
+iexplore https://www.ubuntu.com/download/desktop/contribute?version=16.04.3&architecture=amd64
+DELAY 500
+ENTER
+DELAY 500
+GUI r
+iexplore https://github.com/resin-io/etcher/releases/download/v1.2.1/Etcher-Portable-1.2.1-x64.exe
+DELAY 500
+ENTER
+GUI r 
+notepad
+ENTER
+STRING Please install Linux! It is much more secure and your computer will not be (that) vulnerable
+to attacks like these. I downloaded Ubuntu for you! And I installed Etcher! For installation instructions go to https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop#0 
