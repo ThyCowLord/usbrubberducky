@@ -1,0 +1,13 @@
+REM Makes it look like somebody is hacking them
+GUI r
+DELAY 500
+cmd
+ENTER
+title Hacking in progress... 74 percent complete
+DELAY 500
+color 0a
+DELAY 500
+cls
+DELAY 500
+prompt Stealing personal details... 
+REM Done! :) Have fun!
