@@ -1,4 +1,4 @@
-REM Plays the Soviet Union anthem and goes to r/communism and opens notepad
+REM Plays the Soviet Union anthem and goes to r/communism and opens textedit
 GUI r
 DELAY 500
 terminal
