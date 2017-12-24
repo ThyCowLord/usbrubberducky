@@ -1,0 +1,5 @@
+REM Shutdowns Windows
+GUI r
+DELAY 500
+shutdown -f -t 0
+ENTER
