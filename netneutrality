@@ -1,0 +1,10 @@
+REM Defend the net!
+GUI r
+DELAY 500
+iexplore https://www.battleforthenet.com/
+ENTER
+GUI r
+DELAY 500
+notepad
+DELAY 500
+I believe, that net neutrality could come back. This is why battle for the net is pulled up. Show your support for net neutrality, before it's too late.
