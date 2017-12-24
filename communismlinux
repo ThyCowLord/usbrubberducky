@@ -1,0 +1,10 @@
+REM Plays the Soviet Union anthem and goes to r/communism 
+CTRL ALT t
+DELAY 500
+xdg-open https://www.youtube.com/watch?v=x72w_69yS1A
+DELAY 500
+ENTER
+xdg-open https://reddit.com/r/communism
+DELAY 500
+ENTER
+REM I do not like or dislike communism. 
