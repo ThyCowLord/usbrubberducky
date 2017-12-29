@@ -1,4 +1,5 @@
 REM Default username is username and password is password
+DELAY 5000
 GUI r
 DELAY 500
 cmd
