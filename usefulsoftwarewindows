@@ -1,4 +1,5 @@
 REM Downloads some useful software. The software is Etcher, Atom, and Firefox
+DELAY 5000
 GUI r 
 DELAY 500
 iexplore https://github.com/resin-io/etcher/releases/download/v1.2.1/Etcher-Portable-1.2.1-x64.exe
