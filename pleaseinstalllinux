@@ -1,3 +1,4 @@
+DELAY 5000
 GUI r
 iexplore https://www.ubuntu.com/download/desktop/contribute?version=16.04.3&architecture=amd64
 DELAY 500
